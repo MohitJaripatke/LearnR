@@ -1,6 +1,7 @@
-name: "StackOverflow Analysis"
+theme: jekyll-theme-midnight
+name: "Multi label classification on COVID news articles"
 navbar:
-  title: "StackOverflow Analysis"
+  title: "Multi label classification"
   left:
     - text: "Overview"
       href: index.html
