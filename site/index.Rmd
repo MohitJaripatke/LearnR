@@ -87,7 +87,7 @@ Furthermore, we would want to understand the semantic relations between differen
 
 
 
-##**Research Questions**
+##**Project Objectives**
 
 We set out to answer the following questions with our project 
 
@@ -100,7 +100,7 @@ We set out to answer the following questions with our project
 	*Visualization of insights after classification.
 
 	
-##**Project Objectives**
+##**Research Questions**
 
 
 	* In which parts of the world is Stack Overflow mostly used? 
