@@ -80,12 +80,28 @@ width=600 height=400 src="https://www.youtube.com/embed/4fezPWOaXNY"
 
 ##**Motivation**
 
-The visibility of stackoverflow posts can be enhanced by applying relevant tags to the posts. About a third of the questions remain without accepted answers or votes. A new user who is not well versed with the platform may not be able to enjoy full benefit of the forum due to lack of fundamental information on usage. In such a scenario, tag recommendation comes as a helpful tool. This being our motivation, through this project, we have attempted to recommend 1-most appropriate tag for a post based on the textual content  and the title of the post. Our tags are relevant pertaining to stack overflow, as our models learn from the past posts of stack overflow.
+Ever since COVID-19 erupted into our world, research institutes and governments have released plenty of databases publicly to allow research groups and independent individuals to analyze the data around the coronavirus’s spread. We are facing an unprecedented public health crisis with the Coronavirus (Covid-19) outbreak. We believe that data-driven decisions, and people working together for the greater good, are one of the better ways to tackle and deal with this difficult time.
+
+We are trying to analyze the large set of news articles to help make it easier for common people to filter through many articles related to the virus, and find their own resoluteness.
+Furthermore, we would want to understand the semantic relations between different topics. And finally, analyze keywords to uncover patterns in the news content.
+
 
 
 ##**Research Questions**
 
 We set out to answer the following questions with our project 
+
+	*Classification and Prediction  of  news articles on Coronavirus(multilabel classification)
+	*Comparative analysis of feature extraction methods like word2vec, Doc2vec, TD-IDF, IDF, BOW.
+	*Analysing the semantic relatedness between different articles by Clustering.
+	*Topic modelling through LDA to find prevalent keywords representing each topic.
+	*Analyzing keywords to uncover patterns in news content.
+	*Analyzing different classifiers performance over the dataset.
+	*Visualization of insights after classification.
+
+	
+##**Project Objectives**
+
 
 	* In which parts of the world is Stack Overflow mostly used? 
 	* What are the top 10 common categories?
